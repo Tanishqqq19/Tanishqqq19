@@ -38,6 +38,13 @@ Designed data classification workflows and reporting dashboards for partner scho
 
 ---
 
+### 💼 Work Experience
+
+**Nokia – Software Engineering Intern**  
+Helped build geospatial tools that let engineers visualize and analyze radio sites on an interactive map.  
+Added features for locating nearby towers, filtering network generations, and detecting interference so teams can improve coverage performance in real environments.
+
+
 ### 🔧 Skills & Tools
 Python • PyTorch • SQLite3 • Flask  
 HTML • CSS • Git • GitHub  
