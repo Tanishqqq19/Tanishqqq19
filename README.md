@@ -14,7 +14,9 @@ This includes:
 
 This project has helped me combine my interests in computing, physics, and chemistry while learning how AI can accelerate scientific discovery.
 
-<sub> Link of my research report: [Chemistry AI Research Report](https://docs.google.com/document/d/1ZXNV-3CY-khu5GghFjfxN2H7nssL3GaRGjgMf3X_Zhs/edit?tab=t.0#heading=h.gjdgxs)</sub>
+Link of my research report: [Chemistry AI Research Report](https://docs.google.com/document/d/1ZXNV-3CY-khu5GghFjfxN2H7nssL3GaRGjgMf3X_Zhs/edit?tab=t.0#heading=h.gjdgxs)
+
+<sub> [Github Link](https://github.com/Tanishqqq19/modelling_simulations/) </sub>
 ---
 
 ### 🛠️ Projects
@@ -24,9 +26,14 @@ Full-stack system with authentication, admin tools, and a backend database.
 Built using Python, HTML, CSS, and SQLite.  
 It is currently deployed and in use by a partner school.
 
+[Github Link](https://github.com/Tanishqqq19/Library-Management-System/) 
+
+
 **Nourish Nairobi**   
 A digital platform using BMI and nutrition data to help improve child health outcomes in Nairobi.  
 Designed data classification workflows and reporting dashboards for partner schools.
+
+[Github Link](https://github.com/Tanishqqq19/Nourish-4-Health/) 
 
 
 ---
