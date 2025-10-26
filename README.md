@@ -18,7 +18,13 @@ Link of my research report: [Chemistry AI Research Report](https://docs.google.c
 
 <sub> [Github Link](https://github.com/Tanishqqq19/modelling_simulations/) </sub>
 ---
+### 💼 Work Experience
 
+**Nokia – Software Engineering Intern**  
+Helped build geospatial tools that let engineers visualize and analyze radio sites on an interactive map.  
+Added features for locating nearby towers, filtering network generations, and detecting interference so teams can improve coverage performance in real environments.
+
+---
 ### 🛠️ Projects
 
 **Library Management System**  
@@ -35,14 +41,6 @@ Designed data classification workflows and reporting dashboards for partner scho
 
 [Github Link](https://github.com/Tanishqqq19/Nourish-4-Health/) 
 
-
----
-
-### 💼 Work Experience
-
-**Nokia – Software Engineering Intern**  
-Helped build geospatial tools that let engineers visualize and analyze radio sites on an interactive map.  
-Added features for locating nearby towers, filtering network generations, and detecting interference so teams can improve coverage performance in real environments.
 
 ---
 
