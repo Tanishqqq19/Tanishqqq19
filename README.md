@@ -1,16 +1,44 @@
-## Hi there 👋
+## Hi there, I'm Tanishq 👋
 
-<!--
-**Tanishqqq19/Tanishqqq19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+High school student aspiring to major in Computer Science for my undergraduate studies.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Current Research
+**Machine Learning + Molecular Dynamics (Chemistry Research Project)**  
+I’m exploring how neural networks can approximate potential energy surfaces with physics-level accuracy.  
+This includes:
+- Running molecular dynamics simulations to generate position-energy datasets
+- Implementing radial and angular symmetry functions
+- Training Behler–Parrinello style neural networks in PyTorch
+
+This project has helped me combine my interests in computing, physics, and chemistry while learning how AI can accelerate scientific discovery.
+[Chemistry AI Research Report](https://docs.google.com/document/d/1ZXNV-3CY-khu5GghFjfxN2H7nssL3GaRGjgMf3X_Zhs/edit?tab=t.0#heading=h.gjdgxs)
+---
+
+### 🛠️ Projects
+
+**Library Management System**  
+Full-stack system with authentication, admin tools, and a backend database.  
+Built using Python, HTML, CSS, and SQLite.  
+It is currently deployed and in use by a partner school.
+
+**Nourish Nairobi**   
+A digital platform using BMI and nutrition data to help improve child health outcomes in Nairobi.  
+Designed data classification workflows and reporting dashboards for partner schools.
+
+
+---
+
+### 🔧 Skills & Tools
+Python • PyTorch • SQLite3 • Flask  
+HTML • CSS • Git • GitHub  
+Basic ML & Data Analysis  
+Scientific computing exposure through simulations
+
+---
+
+### 📫 Contact
+Email: **tanmeup195@gmail.com**
+Location: Nairobi, Kenya
+
