@@ -34,7 +34,7 @@ Designed data classification workflows and reporting dashboards for partner scho
 ### 🔧 Skills & Tools
 Python • PyTorch • SQLite3 • Flask  
 HTML • CSS • Git • GitHub  
-Basic ML & Data Analysis  
+ML & Data Analysis • NumPy • Matplotlib  
 Scientific computing exposure through simulations
 
 ---
