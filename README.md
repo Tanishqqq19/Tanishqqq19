@@ -13,7 +13,8 @@ This includes:
 - Training Behler–Parrinello style neural networks in PyTorch
 
 This project has helped me combine my interests in computing, physics, and chemistry while learning how AI can accelerate scientific discovery.
-[Chemistry AI Research Report](https://docs.google.com/document/d/1ZXNV-3CY-khu5GghFjfxN2H7nssL3GaRGjgMf3X_Zhs/edit?tab=t.0#heading=h.gjdgxs)
+
+<sub> Link of my research report: [Chemistry AI Research Report](https://docs.google.com/document/d/1ZXNV-3CY-khu5GghFjfxN2H7nssL3GaRGjgMf3X_Zhs/edit?tab=t.0#heading=h.gjdgxs)</sub>
 ---
 
 ### 🛠️ Projects
