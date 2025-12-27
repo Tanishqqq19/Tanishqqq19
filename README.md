@@ -14,7 +14,7 @@ This includes:
 
 This project has helped me combine my interests in computing, physics, and chemistry while learning how AI can accelerate scientific discovery.
 
-Link of my research report: [Chemistry AI Research Report](https://github.com/Tanishqqq19/modelling_simulations/blob/main/Chemistry%20AI%20Research%20Report.pdf)
+Link of my research report: [Physics AI Research Report](https://github.com/Tanishqqq19/modelling_simulations/blob/main/Physics%20AI%20Research%20Report.pdf)
 
 <sub> [Github Link](https://github.com/Tanishqqq19/modelling_simulations/) </sub>
 ---
