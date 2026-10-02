@@ -1,6 +1,6 @@
 ## Hi there, I'm Tanishq 👋
 
-High school student aspiring to major in Computer Science for my undergraduate studies.  
+I am currently an undergraduate at the University of Illinois Urbana-Champaign, majoring in computer science.
 
 ---
 
