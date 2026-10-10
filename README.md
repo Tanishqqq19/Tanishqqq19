@@ -54,5 +54,5 @@ Scientific computing exposure through simulations
 
 ### 📫 Contact
 Email: **tanmeup195@gmail.com**
-Location: Nairobi, Kenya
+Location: Urbana, Illinois
 
