@@ -1,10 +1,10 @@
 ## Hi there, I'm Tanishq 👋
 
-I am currently an undergraduate at the University of Illinois Urbana-Champaign, majoring in computer science.
+I am currently an undergraduate at the University of Illinois Urbana-Champaign, majoring in Computer Science.
 
 ---
 
-### 🔬 Current Research
+### 🔬 Research
 **Machine Learning + Molecular Dynamics (Chemistry Research Project)**  
 I’m exploring how neural networks can approximate potential energy surfaces with physics-level accuracy.  
 This includes:
@@ -18,31 +18,7 @@ Link of my research report: [Physics AI Research Report](https://github.com/Tani
 
 <sub> [Github Link](https://github.com/Tanishqqq19/modelling_simulations/) </sub>
 ---
-### 💼 Work Experience
 
-**Nokia – Software Engineering Intern**  
-Helped build geospatial tools that let engineers visualize and analyze radio sites on an interactive map.  
-Added features for locating nearby towers, filtering network generations, and detecting interference so teams can improve coverage performance in real environments.
-
----
-### 🛠️ Projects
-
-**Library Management System**  
-Full-stack system with authentication, admin tools, and a backend database.  
-Built using Python, HTML, CSS, and SQLite.  
-It is currently deployed and in use by a partner school.
-
-[Github Link](https://github.com/Tanishqqq19/Library-Management-System/) 
-
-
-**Nourish Nairobi**   
-A digital platform using BMI and nutrition data to help improve child health outcomes in Nairobi.  
-Designed data classification workflows and reporting dashboards for partner schools.
-
-[Github Link](https://github.com/Tanishqqq19/Nourish-4-Health/) 
-
-
----
 
 ### 🔧 Skills & Tools
 Python • PyTorch • SQLite3 • Flask  
@@ -53,6 +29,6 @@ Scientific computing exposure through simulations
 ---
 
 ### 📫 Contact
-Email: **tanmeup195@gmail.com**
+Email: **tanishqmalhotra1908@gmail.com**
 Location: Urbana, Illinois
 
